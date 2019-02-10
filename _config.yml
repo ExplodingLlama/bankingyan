@@ -2,10 +2,10 @@
 title: BankinGyan
 email: gurvin28@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Projects in progress
+  Spreading valuable gyan for banking
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://bankingyan.com" # the base hostname & protocol for your site
-github_username:  explodingllama
+# github_username:  explodingllama
 
 # Build settings
 markdown: kramdown
